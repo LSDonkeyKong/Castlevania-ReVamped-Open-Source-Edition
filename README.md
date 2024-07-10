@@ -3,6 +3,7 @@
 
 ----------------------------------------------------------------
 WHAT IS THIS?
+
 This is the open-source edition of Castlevania ReVamped; free for use in any mods of the game, or for use as a base for other projects. This project should be modified or compiled with the most up-to-date version of Game Maker.
 
 ----------------------------------------------------------------
@@ -16,6 +17,7 @@ RULES FOR USE:
 
 ----------------------------------------------------------------
 NEED HELP?
+
 I am aware that I am a really bad coder. In my opinion, if the code works, then it's fine. However, I fully expect people may have questions as to how this game's engine functions and how to use it. Please direct these inquiries to the Dev Corner's #source-code-help channel in the official Castlevania ReVamped Discord server:
 
 https://discord.com/invite/gRqkXbCeDA
