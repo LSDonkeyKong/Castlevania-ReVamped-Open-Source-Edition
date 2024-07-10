@@ -7,6 +7,7 @@ This is the open-source edition of Castlevania ReVamped; free for use in any mod
 
 ----------------------------------------------------------------
 RULES FOR USE:
+
 -Any mod or project using this engine must retain the original game's credits, as seen at the bottom of this document.
 
 -Do not use this project to promote hateful or prejudiced content.
