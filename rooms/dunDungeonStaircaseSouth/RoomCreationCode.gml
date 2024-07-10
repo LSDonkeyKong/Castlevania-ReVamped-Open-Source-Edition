@@ -1,0 +1,2 @@
+//DUNGEONNNNNNNNnnNNNNnnnnNNNNNNNnnnNN
+area_setup(8,54,13)

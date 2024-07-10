@@ -1,0 +1,1 @@
+door(784,96,ruiUpperRuins)

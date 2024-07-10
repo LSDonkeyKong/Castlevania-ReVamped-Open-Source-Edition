@@ -1,0 +1,1 @@
+door(384,592,ruiRuinedCloset)

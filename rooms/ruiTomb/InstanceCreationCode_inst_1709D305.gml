@@ -1,0 +1,1 @@
+mummy_order = 1

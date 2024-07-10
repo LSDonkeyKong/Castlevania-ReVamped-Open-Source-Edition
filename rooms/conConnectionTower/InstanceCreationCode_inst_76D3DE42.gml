@@ -1,0 +1,1 @@
+door(200,16,catCatacombsPeak)

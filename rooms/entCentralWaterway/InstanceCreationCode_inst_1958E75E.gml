@@ -1,0 +1,1 @@
+door(112,192,entEntranceCenter)

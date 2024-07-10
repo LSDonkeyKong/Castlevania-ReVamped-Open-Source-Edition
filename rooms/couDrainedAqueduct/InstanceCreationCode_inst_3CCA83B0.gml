@@ -1,0 +1,1 @@
+door(16,192,couCreaturesQuarters)

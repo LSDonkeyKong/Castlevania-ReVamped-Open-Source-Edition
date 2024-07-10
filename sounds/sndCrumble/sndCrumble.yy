@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndCrumble",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.136984,
+  "name":"sndCrumble",
+  "parent":{
+    "name":"3. SFX",
+    "path":"folders/3. SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndCrumble.wav",
+  "type":0,
+  "volume":1.0,
+}

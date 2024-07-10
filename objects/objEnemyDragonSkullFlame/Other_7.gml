@@ -1,0 +1,2 @@
+/// @description
+instance_destroy()

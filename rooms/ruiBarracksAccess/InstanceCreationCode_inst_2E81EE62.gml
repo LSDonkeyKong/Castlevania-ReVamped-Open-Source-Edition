@@ -1,0 +1,1 @@
+door(16,80,ruiEastStaircase)

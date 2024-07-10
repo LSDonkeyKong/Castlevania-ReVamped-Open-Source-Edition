@@ -1,0 +1,1 @@
+door(384,144,keeRoyalLobby)

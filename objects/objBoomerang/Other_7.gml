@@ -1,0 +1,2 @@
+/// @description sfx
+bitsound(sndWeaponBoomerang)
