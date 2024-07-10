@@ -8,7 +8,9 @@ This is the open-source edition of Castlevania ReVamped; free for use in any mod
 ----------------------------------------------------------------
 RULES FOR USE:
 -Any mod or project using this engine must retain the original game's credits, as seen at the bottom of this document.
+
 -Do not use this project to promote hateful or prejudiced content.
+
 -This project may not be sold commercially unless ALL copyrighted material is replaced and proper licenses for publishing are acquired.
 
 ----------------------------------------------------------------
@@ -23,45 +25,69 @@ This will be the quickest way to get my help!
 CASTLEVANIA RE-VAMPED CREDITS
 
 GAME DESIGN & PRODUCTION
+
 William ''Lv.4 WALL'' Perez
 
 FLAVOR TEXT
+
 Ivan Perez
 
 MAP & LAYOUT DESIGN
+
 Lv.4 WALL
 
 GRAPHIC ARTISTS
+
 Hansungkee
+
 ZeroSaberGreen
+
 Murphmario
+
 Mister Mike
+
 Badbatman3
+
 SmithyGCN
+
 Lexou Duck
+
 Stardust Nova
 
 MUSICIANS
+
 Raspberry Oatshark
+
 Shimoine
 
 SPECIAL THANKS
+
 WarMachine Studios
+
 Mr. P's Castlevania Realm
+
 The Castlevania Dungeon
 
 TESTING
+
 Jack Beauchamp
+
 Marilyn Hannan
+
 Max Morrone
+
 Ivan Perez
+
 Robert ''subledger'' Hyatt
+
 JupiterClimb
+
 Spriven
 
-ALL OTHER ASSETS ARE
-DERIVED WORK OF KONAMI
+ALL OTHER ASSETS ARE DERIVED WORK OF KONAMI
 
 Presented by 
+
 Lv.4 GAMES, 2024
+
 --------------------------------
