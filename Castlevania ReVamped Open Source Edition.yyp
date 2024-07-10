@@ -465,6 +465,7 @@
     {"id":{"name":"objNoDamage","path":"objects/objNoDamage/objNoDamage.yy",},},
     {"id":{"name":"objNoHeartsPopup","path":"objects/objNoHeartsPopup/objNoHeartsPopup.yy",},},
     {"id":{"name":"objOneWay","path":"objects/objOneWay/objOneWay.yy",},},
+    {"id":{"name":"objOpenSourceScreen","path":"objects/objOpenSourceScreen/objOpenSourceScreen.yy",},},
     {"id":{"name":"objOptions","path":"objects/objOptions/objOptions.yy",},},
     {"id":{"name":"objPauseMenu","path":"objects/objPauseMenu/objPauseMenu.yy",},},
     {"id":{"name":"objPauseMenuBossRush","path":"objects/objPauseMenuBossRush/objPauseMenuBossRush.yy",},},
@@ -672,6 +673,7 @@
     {"id":{"name":"rmMenuOptions","path":"rooms/rmMenuOptions/rmMenuOptions.yy",},},
     {"id":{"name":"rmNewBossRush","path":"rooms/rmNewBossRush/rmNewBossRush.yy",},},
     {"id":{"name":"rmNewGame","path":"rooms/rmNewGame/rmNewGame.yy",},},
+    {"id":{"name":"rmOpenSource","path":"rooms/rmOpenSource/rmOpenSource.yy",},},
     {"id":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
     {"id":{"name":"rmSeizure","path":"rooms/rmSeizure/rmSeizure.yy",},},
     {"id":{"name":"rmSplash","path":"rooms/rmSplash/rmSplash.yy",},},
@@ -2071,6 +2073,7 @@
     {"roomId":{"name":"rmSeizure","path":"rooms/rmSeizure/rmSeizure.yy",},},
     {"roomId":{"name":"rmSplash","path":"rooms/rmSplash/rmSplash.yy",},},
     {"roomId":{"name":"rmDifficulty","path":"rooms/rmDifficulty/rmDifficulty.yy",},},
+    {"roomId":{"name":"rmOpenSource","path":"rooms/rmOpenSource/rmOpenSource.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
